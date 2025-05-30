@@ -24,7 +24,7 @@ A **box and whisker plot** is a visual summary of data using five key values:
 
 ### Pie Charts:
 - Represent data as sectors of a circle.
-- Each sector's angle = \( \frac{\text{frequency}}{\text{total}} \times 360^\circ \)
+- Each sector's angle = $\frac{\text{frequency}}{\text{total}} \times 360^\circ$
 
 ### Bar Charts:
 - Display data using bars of equal width.
@@ -36,17 +36,17 @@ A **box and whisker plot** is a visual summary of data using five key values:
 
 **Linear transformations** involve operations of the form:
 
-\[
+$$
 x' = ax + b
-\]
+$$
 
 Where:
-- \( a \) affects **spread** (scaling)
-- \( b \) shifts the **location** (translation)
+- $a$ affects **spread** (scaling)
+- $b$ shifts the **location** (translation)
 
 ### Effects:
-- Mean: Transformed by \( ax + b \)
-- Standard deviation: Affected only by \( a \) (multiplied)
+- Mean: Transformed by $ax + b$
+- Standard deviation: Affected only by $a$ (multiplied)
 
 ---
 
