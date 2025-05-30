@@ -7,17 +7,17 @@
 
 The **dot product** (also called scalar product) of two vectors **a** = (a₁, a₂) and **b** = (b₁, b₂) is:
 
-\[
+$$
 \vec{a} \cdot \vec{b} = a₁b₁ + a₂b₂
-\]
+$$
 
 ### Geometric Interpretation:
-\[
+$$
 \vec{a} \cdot \vec{b} = |\vec{a}||\vec{b}|\cos(θ)
-\]
+$$
 
 Where:
-- \( θ \) is the angle between the vectors
+- $θ$ is the angle between the vectors
 - If dot product > 0 → acute angle
 - If dot product = 0 → vectors are perpendicular
 - If dot product < 0 → obtuse angle
@@ -28,9 +28,9 @@ Where:
 
 Use the dot product formula:
 
-\[
+$$
 \cos(θ) = \frac{\vec{a} \cdot \vec{b}}{|\vec{a}||\vec{b}|}
-\]
+$$
 
 Solve for θ using inverse cosine.
 
@@ -39,9 +39,10 @@ Solve for θ using inverse cosine.
 ## 3. Linearly Dependent vs. Independent Vectors
 
 - **Dependent**: One vector is a scalar multiple of another.
-  \[
-  \vec{a} = k\vec{b}
-  \]
+
+$$
+\vec{a} = k\vec{b}
+$$
 - **Independent**: Vectors are not scalar multiples; they span a plane or space.
 
 This concept is crucial in linear algebra for solving vector equations and matrix rank.
@@ -53,7 +54,7 @@ This concept is crucial in linear algebra for solving vector equations and matri
 ### Triangle using vectors:
 To find side lengths and angles, use vectors between points.
 
-- Side AB = \( \vec{B} - \vec{A} \)
+- Side AB = $\vec{B} - \vec{A}$
 - Use dot product to find angle between sides.
 
 ### Quadrilateral (e.g., square or rectangle):
@@ -65,14 +66,16 @@ To find side lengths and angles, use vectors between points.
 ## Additional Tools:
 
 - **Midpoint** of AB:
-  \[
-  M = \left(\frac{x₁ + x₂}{2}, \frac{y₁ + y₂}{2}\right)
-  \]
+
+$$
+M = \left(\frac{x₁ + x₂}{2}, \frac{y₁ + y₂}{2}\right)
+$$
 
 - **Distance** between two points A and B:
-  \[
-  d = \sqrt{(x₂ - x₁)^2 + (y₂ - y₁)^2}
-  \]
+
+$$
+d = \sqrt{(x₂ - x₁)^2 + (y₂ - y₁)^2}
+$$
 
 ---
 
