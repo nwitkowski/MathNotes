@@ -70,6 +70,7 @@ If a radioactive substance decays according to the equation:
 $$
 A(t) = 100 \cdot (0.5)^t
 $$
+
 Find the amount left after 6 hours.
 
 ---
@@ -82,6 +83,7 @@ An investment grows according to:
 $$
 A = 500 \cdot (1.06)^t
 $$
+
 When will the investment reach \$1,000?
 
 ---
