@@ -36,7 +36,7 @@ $$
 ### Solution 5:
 
 $$
-	theta = tan^{-1}\left(\frac{3}{3}) = tan^{-1}(1) = 45^\circ
+	theta = tan^{-1}\left(\frac{3}{3}\right) = tan^{-1}(1) = 45^\circ
 $$
 
 ---
@@ -47,7 +47,7 @@ $$
 
 $$
 |\vec{v}| = \sqrt{4^2 + (-3)^2} = \sqrt{16 + 9} = \sqrt{25} = 5 \
-\hat{v} = \frac{1}{5}(4, -3) = \left(\frac{4}{5}, -\frac{3}{5}right)
+\hat{v} = \frac{1}{5}(4, -3) = \left(\frac{4}{5}, -\frac{3}{5}\right)
 $$
 
 ### Solution 7:
