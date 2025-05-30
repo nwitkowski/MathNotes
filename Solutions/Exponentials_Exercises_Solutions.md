@@ -86,7 +86,7 @@ $$
 
 $$
 1000 = 500 \cdot (1.06)^t \Rightarrow 2 = (1.06)^t
-\Rightarrow t = \frac{\log(2)}{\log(1.06)} \approx 11.9 \,\text{years (approx)}
+\Rightarrow t = \frac{\log(2)}{\log(1.06)} \approx 11.9 \,\text{years}
 $$
 
 ---
