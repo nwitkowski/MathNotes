@@ -7,9 +7,9 @@
 
 In 2D, for a right triangle with legs a and b, and hypotenuse c:
 
-\[
+$$
 c^2 = a^2 + b^2
-\]
+$$
 
 ---
 
@@ -19,31 +19,39 @@ In 3D space, we can extend Pythagoras’ Theorem to find the diagonal across a c
 
 ### 3D Diagonal Formula:
 
-For a cuboid with dimensions \( l \), \( w \), and \( h \):
+For a cuboid with dimensions $l$, $w$, and $h$:
 
-\[
+$$
 d = \sqrt{l^2 + w^2 + h^2}
-\]
+$$
 
 ---
 
 ## 3. Calculating Surface Area and Volume of 3D Shapes
 
 ### Rectangular Prism:
-- Volume: \( V = lwh \)
-- Surface Area: \( SA = 2(lw + lh + wh) \)
+- Volume:
+$V = lwh$
+- Surface Area:
+$SA = 2(lw + lh + wh)$
 
 ### Cone:
-- Volume: \( V = \frac{1}{3}\pi r^2 h \)
-- Surface Area: \( SA = \pi r (r + l) \), where \( l \) is slant height
+- Volume:
+$V = \frac{1}{3}\pi r^2 h$
+- Surface Area:
+$SA = \pi r (r + l)$, where $l$ is slant height
 
 ### Sphere:
-- Volume: \( V = \frac{4}{3}\pi r^3 \)
-- Surface Area: \( SA = 4\pi r^2 \)
+- Volume:
+$V = \frac{4}{3}\pi r^3$
+- Surface Area:
+$SA = 4\pi r^2$
 
 ### Cylinder:
-- Volume: \( V = \pi r^2 h \)
-- Surface Area: \( SA = 2\pi r(h + r) \)
+- Volume:
+$V = \pi r^2 h$
+- Surface Area:
+$SA = 2\pi r(h + r)$
 
 ---
 
@@ -59,9 +67,9 @@ d = \sqrt{l^2 + w^2 + h^2}
 
 Find the diagonal of a box measuring 3 m long, 4 m wide, and 12 m high:
 
-\[
+$$
 d = \sqrt{3^2 + 4^2 + 12^2} = \sqrt{9 + 16 + 144} = \sqrt{169} = 13\,\text{m}
-\]
+$$
 
 ---
 
