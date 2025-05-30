@@ -75,10 +75,18 @@ $$
 
 ### Solution 6:
 $$
-\vec{u} \cdot \vec{v} = x \cdot 3 + 2 \cdot y = 3x + 2y = 0 \
-x + y = 5 \
-\Rightarrow y = 5 - x \
-\Rightarrow 3x + 2(5 - x) = 0 \Rightarrow 3x + 10 - 2x = 0 \Rightarrow x = -10 \
+\vec{u} \cdot \vec{v} = x \cdot 3 + 2 \cdot y = 3x + 2y = 0
+$$
+$$
+x + y = 5
+$$
+$$
+\Rightarrow y = 5 - x
+$$
+$$
+\Rightarrow 3x + 2(5 - x) = 0 \Rightarrow 3x + 10 - 2x = 0 \Rightarrow x = -10
+$$
+$$
 \Rightarrow y = 15
 $$
 
