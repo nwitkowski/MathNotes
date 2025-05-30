@@ -59,11 +59,17 @@ $$
 
 $$
 \log(x) + \log(x - 3) = 1 \Rightarrow \log[x(x - 3)] = 1
+$$
 
+$$
 \Rightarrow x^2 - 3x = 10 \Rightarrow x^2 - 3x - 10 = 0
+$$
 
+$$
 \Rightarrow x = 5, -2 \quad (	ext{Reject } x = -2)
+$$
 
+$$
 \Rightarrow x = 5
 $$
 
