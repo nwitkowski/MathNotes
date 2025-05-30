@@ -57,9 +57,15 @@ $$
 ### Solution 5:
 
 $$
-\vec{AB} = (4-1, 6-2) = (3, 4) \quad |\vec{AB}| = 5 \\
-\vec{BC} = (7-4, 2-6) = (3, -4) \quad |\vec{BC}| = 5 \\
-\vec{CA} = (1-7, 2-2) = (-6, 0) \quad |\vec{CA}| = 6 \\
+\vec{AB} = (4-1, 6-2) = (3, 4) \quad |\vec{AB}| = 5
+$$
+$$
+\vec{BC} = (7-4, 2-6) = (3, -4) \quad |\vec{BC}| = 5
+$$
+$$
+\vec{CA} = (1-7, 2-2) = (-6, 0) \quad |\vec{CA}| = 6
+$$
+$$
 \Rightarrow \text{AB = BC, so triangle ABC is isosceles}
 $$
 
