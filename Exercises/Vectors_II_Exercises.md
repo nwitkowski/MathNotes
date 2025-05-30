@@ -53,7 +53,7 @@ Given triangle ABC with points A(1,2), B(4,6), and C(7,2), find the vectors repr
 ## Challenge Question
 
 ### Exercise 6:
-If vectors \( \vec{u} = (x, 2) \) and \( \vec{v} = (3, y) \) are perpendicular, find the values of \( x \) and \( y \) such that \( \vec{u} \cdot \vec{v} = 0 \) and \( x + y = 5 \).
+If vectors $\vec{u} = (x, 2)$ and $\vec{v} = (3, y)$ are perpendicular, find the values of $x$ and $y$ such that $\vec{u} \cdot \vec{v} = 0$ and $x + y = 5$.
 
 ---
 
