@@ -14,7 +14,7 @@ $$
 ### Solution 2:
 
 $$
-(5^2)^3 = 5^{2 \cdot 3} = 5^6 = 15,625
+(5^2)^3 = 5^{2 \cdot 3} = 5^6 = 15625
 $$
 
 ### Solution 3:
@@ -86,7 +86,7 @@ $$
 
 $$
 1000 = 500 \cdot (1.06)^t \Rightarrow 2 = (1.06)^t
-\Rightarrow t = \frac{\log(2)}{\log(1.06)} pprox 11.9 \,\text{years}
+\Rightarrow t = \frac{\log(2)}{\log(1.06)} = 11.9 \,\text{years (approx)}
 $$
 
 ---
