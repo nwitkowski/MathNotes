@@ -15,7 +15,7 @@ $$
 
 $$
 \vec{a} \cdot \vec{b} = 1 \cdot (-2) + 2 \cdot 1 = -2 + 2 = 0 \
-\Rightarrow 	ext{Vectors are perpendicular}
+\Rightarrow \text{Vectors are perpendicular}
 $$
 
 ---
