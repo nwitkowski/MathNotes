@@ -58,7 +58,7 @@ $$
 ### Solution 8:
 
 $$
-\log(x) + \log(x - 3) = 1 \Rightarrow \log[x(x - 3)] = 1
+\log(x) + \log(x - 3) = 1 \Rightarrow \log(x(x - 3)) = 1
 $$
 
 $$
