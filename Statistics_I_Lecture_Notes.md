@@ -38,13 +38,13 @@
 ## 3. Measures of Central Tendency
 
 ### **Mean**:
-\[
+$$
 \bar{x} = \frac{\sum fx}{\sum f}
-\]
+$$
 
 Where:
-- \( f \): frequency
-- \( x \): midpoint of class
+- $f$: frequency
+- $x$: midpoint of class
 
 ### **Median**:
 - The middle value or average of two middle values when data is ordered.
@@ -57,9 +57,9 @@ Where:
 ## 4. Range and Quartiles
 
 ### **Range**:
-\[
+$$
 \text{Range} = \text{Maximum} - \text{Minimum}
-\]
+$$
 
 ### **Quartiles**:
 - Divide data into four equal parts.
@@ -68,23 +68,23 @@ Where:
 - Q3 = 75th percentile
 
 ### **Interquartile Range (IQR)**:
-\[
+$$
 \text{IQR} = Q3 - Q1
-\]
+$$
 
 ---
 
 ## 5. Variance and Standard Deviation (Intro)
 
-### Variance (\( \sigma^2 \)):
-\[
+### Variance ($\sigma^2$):
+$$
 \sigma^2 = \frac{\sum (x - \bar{x})^2}{n}
-\]
+$$
 
-### Standard Deviation (\( \sigma \)):
-\[
+### Standard Deviation ($\sigma$):
+$$
 \sigma = \sqrt{\sigma^2}
-\]
+$$
 
 - Measures the spread of data from the mean.
 
