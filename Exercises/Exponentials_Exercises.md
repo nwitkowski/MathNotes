@@ -41,10 +41,10 @@ A car loses 20% of its value each year. If the original price is \$25,000, what 
 ## **3. Simple and Compound Interest**
 
 ### Exercise 6:
-Calculate the amount after 4 years if \$1,000 is invested at a simple interest rate of 5% per annum.
+Calculate the amount after 4 years if \$1000 is invested at a simple interest rate of 5% per annum.
 
 ### Exercise 7:
-Calculate the amount if \$1,000 is invested at a compound interest rate of 5% per annum for 4 years, compounded annually.
+Calculate the amount if \$1000 is invested at a compound interest rate of 5% per annum for 4 years, compounded annually.
 
 ---
 
