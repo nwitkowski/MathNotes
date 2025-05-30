@@ -7,17 +7,16 @@
 
 **Probability** measures how likely an event is to occur.
 
-\[
+$$
 P(E) = \frac{\text{Number of favorable outcomes}}{\text{Total number of outcomes}}
-\]
+$$
 
 - Probability ranges from 0 (impossible) to 1 (certain).
 
 ### Example:
 - Rolling a 3 on a standard die:
-  \[
-  P(3) = \frac{1}{6}
-  \]
+
+$P(3) = \frac{1}{6}$
 
 ---
 
@@ -25,9 +24,9 @@ P(E) = \frac{\text{Number of favorable outcomes}}{\text{Total number of outcomes
 
 The probability of an event occurring given that another event has already occurred.
 
-\[
+$$
 P(A|B) = \frac{P(A \cap B)}{P(B)}
-\]
+$$
 
 ### Example:
 - Drawing a red card given it is a heart.
@@ -37,20 +36,21 @@ P(A|B) = \frac{P(A \cap B)}{P(B)}
 ## 3. Probability Laws
 
 ### **Addition Rule** (for mutually exclusive events):
-\[
+$$
 P(A \cup B) = P(A) + P(B)
-\]
+$$
 
 ### **Addition Rule (general)**:
-\[
+$$
 P(A \cup B) = P(A) + P(B) - P(A \cap B)
-\]
+$$
 
 ### **Multiplication Rule**:
-- If A and B are independent:
-  \[
-  P(A \cap B) = P(A) \cdot P(B)
-  \]
+If A and B are independent:
+
+$$
+P(A \cap B) = P(A) \cdot P(B)
+$$
 
 ---
 
